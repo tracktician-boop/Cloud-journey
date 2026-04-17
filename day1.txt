@@ -1,1 +1,3 @@
 day 1 - My first Git project
+This is my first GitHub project.
+Day 1 complete.

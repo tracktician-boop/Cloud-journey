@@ -3,3 +3,4 @@ This is my first GitHub project.
 Day 1 complete.
 Learning git step by step
 Understanding version control.
+Day 2: Learning version control deeper.

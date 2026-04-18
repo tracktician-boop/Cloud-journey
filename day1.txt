@@ -2,3 +2,4 @@ day 1 - My first Git project
 This is my first GitHub project.
 Day 1 complete.
 Learning git step by step
+Understanding version control.
